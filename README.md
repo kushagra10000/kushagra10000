@@ -1,4 +1,4 @@
-- 👋 Hey, I am Kushagra Mangalam. I am currently persuaing btech from GL BAJAJ(greater noida) in Electronics and Communication branch.
+- 👋 Hey, I am Kushagra Mangalam. I am currently persuing btech from GL BAJAJ(greater noida) in Electronics and Communication branch.
 - 👀 I’m interested in mastering modern languages which could help me diversify my knowledge in tech industry.
 - 🌱 I’m currently learning java. I am from non-tech background so i am looking to understand the basics of languages ( JAVA, PYTHON, C ).
 - 💞️ I’m looking to collaborate on the basics of java.
